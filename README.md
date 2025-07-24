@@ -45,8 +45,9 @@
 ## DDR application
 - File: [DDR_All_Results.ipynb](/DDR_Reproduce/DDR_All_Results.ipynb)
 
-
-
+<!-- ### Revise codes
+- run EPO时，我在 dataset.py 中关闭了Optimizing for optDataset... 和tqdm的打印 -->
+<!-- - pyepo/func/abcmodule.py/中注释 “print("Num of cores: {}".format(self.processes))” -->
 
 <!-- 
 ### Model Misspecification
