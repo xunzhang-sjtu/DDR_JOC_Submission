@@ -22,8 +22,13 @@
     - Figure: [Baseline_DDR_vs_SLO_and_ILO.ipynb](/Shortest_Path_Reproduce/Baseline_DDR_vs_SLO_and_ILO.ipynb)
     - Data: ".../Data_JOC_R1_Submit/Shortest_PathBaseline_SPO_Data_Generation/Result"
 
+### The misspecified setting
 
-### Various Setting
+- File: [Experiment_Model_Quadratic.ipynb](/Shortest_Path_Reproduce/Experiment_Model_Quadratic.ipynb)
+- Figure: [Experiment_Model_Quadratic.ipynb](/Shortest_Path_Reproduce/Experiment_Model_Quadratic.ipynb)
+- Data: “.../Data_JOC_R1_Submit/Shortest_Path/Quadratic_Term_SPO_Data_Generation/3by3_grid_All/Result”
+
+### Robustness of Our Model Across Various Settings
 - Includes: 
 
     0. Setup parameters: [Various_setting_Reproduce_SPO.ipynb](/Shortest_Path_Reproduce/Various_setting_Reproduce_SPO.ipynb)
@@ -33,11 +38,6 @@
     4. Impact of model misspecification: [Various_Setting_Reproduce_Mis_SPO.ipynb](/Shortest_Path_Reproduce/Various_Setting_Reproduce_Mis_SPO.ipynb)
     - Data: ".../Data_JOC_R1_Submit/Shortest_Path/Various_Settings_SPO_Data_Generation/3by3_grid/Result"
 
-### Quadratic term
-
-- File: [Experiment_Model_Quadratic.ipynb](/Shortest_Path_Reproduce/Experiment_Model_Quadratic.ipynb)
-- Figure: [Experiment_Model_Quadratic.ipynb](/Shortest_Path_Reproduce/Experiment_Model_Quadratic.ipynb)
-- Data: “.../Data_JOC_R1_Submit/Shortest_Path/Quadratic_Term_SPO_Data_Generation/3by3_grid_All/Result”
 
 <!-- ### Tree_based DDR 
 
