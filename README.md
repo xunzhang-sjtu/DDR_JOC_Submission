@@ -7,17 +7,17 @@
 1. Impact of the Size of Network
     - File: [Baseline_Reproduce_SPO.ipynb](/Shortest_Path_Reproduce/Baseline_Reproduce_SPO.ipynb)
     - Figure: [Baseline_Impact_Network_Size.ipynb](/Shortest_Path_Reproduce/Baseline_Impact_Network_Size.ipynb)
-    - Data: ".../Data_JOC_R1_Submit/Shortest_Path_Final/Baseline_SPO_Data_Generation/result"
+    - Data: ".../Data_JOC_R1_Submit/Shortest_Path/Baseline_SPO_Data_Generation/result"
 
 2. Calibrate $\mu$ and $\lambda$: <font color="red">Figure 2</font>
     - File: [Baseline_Calibrate_mu_lambda_SPO.ipynb](/Shortest_Path_Reproduce/Baseline_Calibrate_mu_lambda_SPO.ipynb)
     - Figure: [Baseline_Calibrate_mu_lambda_SPO.ipynb](/Shortest_Path_Reproduce/Baseline_Calibrate_mu_lambda_SPO.ipynb)
-    - Data: ".../Data_JOC_R1_Submit/Shortest_Path_Final/Baseline_SPO_Data_Generation/Result"
+    - Data: ".../Data_JOC_R1_Submit/Shortest_Path/Baseline_SPO_Data_Generation/Result"
 
 2. Comparison with Sequential Learning and Integrated Learning Approaches: <font color="red">Table 1, Figure 3 and 4</font>
     - File: [Baseline_DDR_vs_SLO_and_ILO.ipynb](/Shortest_Path_Reproduce/Baseline_DDR_vs_SLO_and_ILO.ipynb)
     - Figure: [Baseline_DDR_vs_SLO_and_ILO.ipynb](/Shortest_Path_Reproduce/Baseline_DDR_vs_SLO_and_ILO.ipynb)
-    - Data: ".../Data_JOC_R1_Submit/Shortest_Path_Final/Baseline_SPO_Data_Generation/Result"
+    - Data: ".../Data_JOC_R1_Submit/Shortest_PathBaseline_SPO_Data_Generation/Result"
 
 
 ### Various Setting
@@ -28,19 +28,19 @@
     2. Impact of number of feature: [Various_Setting_Reproduce_Num_Feature_SPO.ipynb](/Shortest_Path_Reproduce/Various_Setting_Reproduce_Num_Feature_SPO.ipynb)
     3. Impact of range of error term: [Various_Setting_Reproduce_Noise_Level_SPO.ipynb](/Shortest_Path_Reproduce/Various_Setting_Reproduce_Noise_Level_SPO.ipynb)
     4. Impact of model misspecification: [Various_Setting_Reproduce_Mis_SPO.ipynb](/Shortest_Path_Reproduce/Various_Setting_Reproduce_Mis_SPO.ipynb)
-    - Data: ".../Data_JOC_R1_Submit/Shortest_Path_Final/Various_Settings_SPO_Data_Generation/3by3_grid/Result"
+    - Data: ".../Data_JOC_R1_Submit/Shortest_Path/Various_Settings_SPO_Data_Generation/3by3_grid/Result"
 
 ### Quadratic term
 
 - File: [Experiment_Model_Quadratic.ipynb](/Shortest_Path_Reproduce/Experiment_Model_Quadratic.ipynb)
 - Figure: [Experiment_Model_Quadratic.ipynb](/Shortest_Path_Reproduce/Experiment_Model_Quadratic.ipynb)
-- Data: “.../Data_JOC_R1_Submit/Shortest_Path_Final/Quadratic_Term_SPO_Data_Generation/3by3_grid_All/Result”
+- Data: “.../Data_JOC_R1_Submit/Shortest_Path/Quadratic_Term_SPO_Data_Generation/3by3_grid_All/Result”
 
-### Tree_based DDR 
+<!-- ### Tree_based DDR 
 
 - File: [Experiment_Own.py](Tree_Based_Approaches/Tree_Based_SPO_Plus/Experiment_Own.py)
 - Figure: [Figrue_Tree_based_Experiments.ipynb](Tree_Based_Approaches/Tree_Based_SPO_Plus/Figrue_Tree_based_Experiments.ipynb)
-- Data: “.../Data_JOC_R1_Submit/Shortest_Path_Tree/dim=3_depth_3_Tree_based_Data_Generation/result/Data_size=200/”
+- Data: “.../Data_JOC_R1_Submit/Shortest_Path_Tree/dim=3_depth_3_Tree_based_Data_Generation/result/Data_size=200/” -->
 
 ## DDR application
 - File: [DDR_All_Results.ipynb](/DDR_Reproduce/DDR_All_Results.ipynb)
